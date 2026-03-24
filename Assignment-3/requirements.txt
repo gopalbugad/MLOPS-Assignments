@@ -1,0 +1,11 @@
+langgraph
+langchain
+ipython
+langchain-google-genai==4.2.1
+langchain_community
+python-dotenv
+typing
+chromadb
+langchain_chroma
+langchain-text-splitters
+pypdf
